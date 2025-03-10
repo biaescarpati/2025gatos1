@@ -1,0 +1,29 @@
+body{background-color: rgb(74, 139, 96)
+}
+.part1{text-align: center;
+font-size: 80%;
+color: rgb(255, 255, 255);
+}
+.part1{border-color: rgb(255, 255, 255);
+border-style: outset;
+border-width: 5px;
+margin-left: 35%;
+margin-right: 35%;
+}
+#ima1{width: 35%;
+}
+.fig1{
+    margin-left: 35%;
+    background-color: rgb(211, 140, 60);
+    margin-right: 35%;
+    border-style: groove;
+border-color: rgb(255, 145, 0);
+border-width: 7%;
+}
+#ima1{margin-left: 33%;
+}
+#ima2{width: 50%;
+}
+.fig2{
+    margin-left: 33%;
+}
